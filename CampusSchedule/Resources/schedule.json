@@ -1,0 +1,187 @@
+{
+  "semester": {
+    "name": "2026-1学期",
+    "startDate": "2026-09-07",
+    "weekCount": 17
+  },
+  "periods": [
+    { "number": 1, "start": "08:00", "end": "08:45" },
+    { "number": 2, "start": "08:55", "end": "09:40" },
+    { "number": 3, "start": "10:10", "end": "10:55" },
+    { "number": 4, "start": "11:05", "end": "11:50" },
+    { "number": 5, "start": "14:20", "end": "15:05" },
+    { "number": 6, "start": "15:15", "end": "16:00" },
+    { "number": 7, "start": "16:30", "end": "17:15" },
+    { "number": 8, "start": "17:25", "end": "18:10" },
+    { "number": 9, "start": "19:00", "end": "19:45" },
+    { "number": 10, "start": "19:55", "end": "20:40" },
+    { "number": 11, "start": "20:50", "end": "21:35" }
+  ],
+  "courses": [
+    {
+      "id": "higher-math-mon",
+      "title": "高等数学一（I）",
+      "shortTitle": "高等数学",
+      "weekday": 1,
+      "startPeriod": 1,
+      "endPeriod": 2,
+      "location": "第五教学楼（逸夫楼）逸501",
+      "color": "indigo",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": "english-mon",
+      "title": "大学英语",
+      "shortTitle": "大学英语",
+      "weekday": 1,
+      "startPeriod": 3,
+      "endPeriod": 4,
+      "location": "第六教学楼（392栋）6401",
+      "color": "blue",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": "physics-mon",
+      "title": "大学物理（工）上",
+      "shortTitle": "大学物理",
+      "weekday": 1,
+      "startPeriod": 7,
+      "endPeriod": 8,
+      "location": "第五教学楼（逸夫楼）逸201",
+      "color": "cyan",
+      "weeks": [10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": "microeconomics-mon",
+      "title": "微观经济学",
+      "shortTitle": "微观经济学",
+      "weekday": 1,
+      "startPeriod": 9,
+      "endPeriod": 11,
+      "location": "第二教学楼2205",
+      "color": "orange",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": "linear-algebra-tue",
+      "title": "线性代数",
+      "shortTitle": "线性代数",
+      "weekday": 2,
+      "startPeriod": 1,
+      "endPeriod": 2,
+      "location": "第五教学楼（逸夫楼）逸402",
+      "color": "purple",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": "programming-theory-tue",
+      "title": "程序设计基础（含实验）",
+      "shortTitle": "程序设计基础",
+      "weekday": 2,
+      "startPeriod": 3,
+      "endPeriod": 4,
+      "location": "第一教学楼1501",
+      "color": "teal",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": "programming-lab-tue",
+      "title": "程序设计基础（含实验）",
+      "shortTitle": "程序设计实验",
+      "weekday": 2,
+      "startPeriod": 5,
+      "endPeriod": 6,
+      "location": "园东区106栋201",
+      "color": "teal",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": "politics-tue",
+      "title": "习近平新时代中国特色社会主义思想概论",
+      "shortTitle": "习近平新时代中国特色社会主义思想概论",
+      "weekday": 2,
+      "startPeriod": 9,
+      "endPeriod": 11,
+      "location": "第一教学楼1101",
+      "color": "red",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": "higher-math-wed",
+      "title": "高等数学一（I）",
+      "shortTitle": "高等数学",
+      "weekday": 3,
+      "startPeriod": 1,
+      "endPeriod": 2,
+      "location": "第五教学楼（逸夫楼）逸501",
+      "color": "indigo",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": "physics-wed",
+      "title": "大学物理（工）上",
+      "shortTitle": "大学物理",
+      "weekday": 3,
+      "startPeriod": 7,
+      "endPeriod": 8,
+      "location": "第五教学楼（逸夫楼）逸201",
+      "color": "cyan",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": "linear-algebra-thu",
+      "title": "线性代数",
+      "shortTitle": "线性代数",
+      "weekday": 4,
+      "startPeriod": 1,
+      "endPeriod": 2,
+      "location": "第五教学楼（逸夫楼）逸402",
+      "color": "purple",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "id": "mental-health-thu",
+      "title": "心理健康教育（上）",
+      "shortTitle": "心理健康教育",
+      "weekday": 4,
+      "startPeriod": 1,
+      "endPeriod": 4,
+      "location": "第六教学楼（392栋）6507",
+      "color": "pink",
+      "weeks": [13]
+    },
+    {
+      "id": "physical-education-thu",
+      "title": "体育",
+      "shortTitle": "体育",
+      "weekday": 4,
+      "startPeriod": 7,
+      "endPeriod": 8,
+      "location": "场地未标注",
+      "color": "green",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17]
+    },
+    {
+      "id": "higher-math-fri",
+      "title": "高等数学一（I）",
+      "shortTitle": "高等数学",
+      "weekday": 5,
+      "startPeriod": 1,
+      "endPeriod": 2,
+      "location": "第五教学楼（逸夫楼）逸501",
+      "color": "indigo",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8]
+    },
+    {
+      "id": "accounting-fri",
+      "title": "会计学原理",
+      "shortTitle": "会计学原理",
+      "weekday": 5,
+      "startPeriod": 5,
+      "endPeriod": 7,
+      "location": "善思堂M302",
+      "color": "mint",
+      "weeks": [1, 2, 3, 4, 5, 6, 7, 8, 10, 11, 12, 13, 14, 15, 16, 17]
+    }
+  ]
+}

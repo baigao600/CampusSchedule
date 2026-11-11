@@ -1,0 +1,16 @@
+# macOS metadata
+.DS_Store
+
+# Xcode build output and per-user settings
+DerivedData/
+build/
+*.xcarchive
+*.xcresult
+xcuserdata/
+*.xcuserstate
+
+# Signing assets and packaged apps
+*.mobileprovision
+*.provisionprofile
+*.p12
+*.ipa
